@@ -5,7 +5,7 @@ public class begin {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("hello java");
-		System.out.println("hello java world1");
+		System.out.println("hello java world2");
 byte a=10;
  byte b=10;
  byte c=(byte)(a+b);
